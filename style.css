@@ -12,9 +12,8 @@ html,body{
 body{
     text-align: center;
 }
-.btn{
-    /* height: 200px; */
-    /* width: 200px; */
+
+.btn{    
     height: 30vh;
     width: 15vw;
     border-radius: 20%;
